@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">算數測驗</string>
+    <string name="ans_correct_msg">回答正確! 請繼續!</string>
+    <string name="title_msg">算數測驗</string>
+    <string name="button_submit">確定</string>
+    <string name="button_back_to_title">返回</string>
+    <string name="current_score">得分:%d</string>
+    <string name="dialog_negative_msg">取消</string>
+    <string name="dialog_positive_msg">確定</string>
+    <string name="high_score_msg">最高得分紀錄:%d</string>
+    <string name="input_indicator">請答題:</string>
+    <string name="lose_score_msg">你的得分:%d</string>
+    <string name="dialog_quit_title">確定離開嗎?</string>
+    <string name="title_button_msg">進入</string>
+    <string name="win_msg">挑戰成功!</string>
+    <string name="win_score_msg">新紀錄:%d</string>
+    <string name="lose_msg">挑戰失敗!</string>
+    <string name="alert_msg">請輸入你的答案</string>
+    <string name="title_nav_msg">歡迎</string>
+    <string name="question_nav_msg">測驗</string>
+    <string name="win_nav_msg">勝利</string>
+    <string name="lose_nav_msg">失敗</string>
+</resources>
